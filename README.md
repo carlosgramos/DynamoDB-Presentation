@@ -2,24 +2,24 @@
 
 # What is DynamoDB?
 
-Amazon DynamoDB is a fully managed [NoSQL database] service that provides fast and predictable performance with seamless scalability.
+**Amazon DynamoDB** is a fully managed **NoSQL database service** that provides fast and predictable performance with seamless scalability.
 
-  - You can use Amazon DynamoDB to create a database table that can store and retrieve any amount of data, and serve any level of request traffic.
+  - You can use Amazon DynamoDB to create a database table that can **store and retrieve any amount of data**, and serve **any level of request traffic**.
   
-  - Amazon DynamoDB automatically spreads the data and traffic for the table over a sufficient number of servers to handle the request capacity specified by the customer and the amount of data stored.
+  - Amazon DynamoDB automatically spreads the data and traffic for the table over a **sufficient number of servers** to handle the request capacity specified by the customer and the amount of data stored.
   
-  - Amazon DynamoDB will maintain consistent and fast performance.
+  - Amazon DynamoDB will maintain **consistent and fast performance**.
 
 # What is NoSQL?
 
 NoSQL is a term used to describe high-performance, non-relational databases (the relationships between the data are not important). 
-  - Non-Relational means table-less: NoSQL databases are non-relational, hence, very different from SQL databases. This means they are easier to manage and they provide a higher level of flexibility with newer data models.
+  - Non-Relational means table-less: **NoSQL databases are non-relational**, hence, very different from SQL databases. This means they are easier to manage and they provide a higher level of flexibility with newer data models.
  
-- They are Low-Cost: The open source nature of NoSQL databases makes them an appealing solution for smaller organizations with limited budgets. The top NoSQL databases allow for rapid processing of real-time Big Data applications in ways that are affordable.
+- They are Low-Cost: The open source nature of NoSQL databases, and the ability to rent them as a cloud service, makes them an appealing solution for smaller organizations with limited budgets. The top NoSQL databases allow for rapid processing of real-time Big Data applications in ways that are affordable.
  
-- Easier scalability: Elastic scalability is a major selling point of NoSQL. NoSQL databases are designed to function on full throttle even with low-cost hardware.
+- Scalability: **Elastic scalability** is a major selling point of NoSQL. NoSQL databases are designed to function on full throttle even with low-cost hardware.
  
-- No need to develop a detailed database model: The non-relational nature of a NoSQL database allows database architects to quickly create a database without needing to develop a detailed (fine-grained) database model. This saves a lot of development time.
+- No need to develop a detailed database model: The non-relational nature of a NoSQL database allows database architects to **quickly create a database** without needing to develop a detailed (fine-grained) database model. This saves a lot of development time.
 
 A slightly better explanation about NoSQL databases:
 
@@ -29,16 +29,16 @@ A slightly better explanation about NoSQL databases:
 
 # Why you should consider DynamoDB?
 
-- There is no size limit. You can store your data and have it scale out as the need arises. 
+- **There is no size limit**. You can store your data and have it scale out as the need arises. 
 
-- Since it is hosted in multiple servers, it is redundant and highly available
+- Since it is hosted in multiple servers, it is **redundant and highly available**.
 
-- DynamoDB is fully managed by Amazon, so you can set it and forget it. Amazon will handled the servers, the software and the day to day activities so you can focus on your projects, not on your hardware.
+- DynamoDB is **fully managed by Amazon,** so you can set it and forget it. Amazon will handled the servers, the software and the day to day activities so **you can focus on your projects**, not on your hardware.
 
-- Get started with DynamoDB for free. Many applications can operate within these free tier limits.
-    * Enough throughput to handle up to 200 million requests per month
-    * 25 GB of indexed data storage.
-    * 2.5 million read requests per month from DynamoDB Streams. 
+- **Get started with DynamoDB for free**. Many applications can operate within these free tier limits.
+    * Enough throughput to handle up to **200 million** requests per month.
+    * **25 GB** of indexed data storage.
+    * **2.5 million read requests** per month from DynamoDB Streams. 
 
 # How much does it cost?
 
