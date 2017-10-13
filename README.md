@@ -50,10 +50,10 @@ A slightly better explanation about NoSQL databases:
 
 # Additional Information
 
-[DynamoDB Service](https://aws.amazon.com/documentation/dynamodb/)
-[NoSQL Databses](https://aws.amazon.com/nosql/)
-[Pricing](https://aws.amazon.com/dynamodb/pricing/)
-[Cost Calculator](https://calculator.s3.amazonaws.com/index.html)
+- [DynamoDB Service](https://aws.amazon.com/documentation/dynamodb/)
+- [NoSQL Databses](https://aws.amazon.com/nosql/)
+- [Pricing](https://aws.amazon.com/dynamodb/pricing/)
+- [Cost Calculator](https://calculator.s3.amazonaws.com/index.html)
 
 ### My Contact Information
 
