@@ -57,6 +57,6 @@ A slightly better explanation about NoSQL databases:
 
 ### My Contact Information
 
-Carlos Ramos
-carrams@amazon.com
+Carlos Ramos |
+carrams@amazon.com |
 (954) 736-0536
