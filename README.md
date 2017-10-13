@@ -13,7 +13,7 @@
 # What is NoSQL?
 
 NoSQL is a term used to describe high-performance, non-relational databases (the relationships between the data are not important). 
-  - Non-Relational means table-less: **NoSQL databases are non-relational**, hence, very different from SQL databases. This means they are easier to manage and they provide a higher level of flexibility with newer data models.
+  - Non-Relational: **NoSQL databases are non-relational**, hence, very different from SQL databases. This means they are easier to manage and they provide a higher level of flexibility with newer data models.
  
 - They are Low-Cost: The open source nature of NoSQL databases, and the ability to rent them as a cloud service, makes them an appealing solution for smaller organizations with limited budgets. The top NoSQL databases allow for rapid processing of real-time Big Data applications in ways that are affordable.
  
