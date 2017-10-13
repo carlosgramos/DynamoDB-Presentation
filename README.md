@@ -33,7 +33,7 @@ A slightly better explanation about NoSQL databases:
 
 - Since it is hosted in multiple servers, it is **redundant and highly available**.
 
-- DynamoDB is **fully managed by Amazon,** so you can set it and forget it. Amazon will handled the servers, the software and the day to day activities so **you can focus on your projects**, not on your hardware.
+- DynamoDB is **fully managed by Amazon,** so you can set it and forget it. Amazon will handled the servers, the software and the day to day management so **you can focus on your projects**, not on your hardware.
 
 - **Get started with DynamoDB for free**. Many applications can operate within these free tier limits.
     * Enough throughput to handle up to **200 million** requests per month.
